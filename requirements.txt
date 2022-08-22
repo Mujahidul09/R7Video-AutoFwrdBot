@@ -1,4 +1,4 @@
 TgCrypto
-pyrogram=
+pyrogram=2.0.41
 Dnspython
 pyromod
